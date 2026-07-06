@@ -1,23 +1,87 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/floki-esdeath-hero.png" width="100%" alt="Floki-U — AI and full-stack engineer" />
 
-<!--
-**floki-u/floki-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br />
+  <h1>FLOKI—U</h1>
+  <p><strong>AI × FULL-STACK ENGINEER</strong></p>
+  <p>
+    Building intelligent products with systems-level foundations<br />
+    and interfaces that feel at home on every screen.
+  </p>
 
-Here are some ideas to get you started:
+  <a href="https://github.com/floki-u?tab=followers">
+    <img src="https://img.shields.io/github/followers/floki-u?style=flat-square&color=397b99&labelColor=eaf4f7&logo=github&label=FOLLOWERS" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=floki-u&style=flat-square&color=397b99&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=floki-u)](https://github.com/stats-organization/github-stats-extended)
+## 01 / FOCUS
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Intelligence</h3>
+      <p>AI-first products, LLM applications, agents, and the infrastructure that makes them useful.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Full Stack</h3>
+      <p>End-to-end experiences—from product interfaces and APIs to data, deployment, and operations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Systems</h3>
+      <p>C++ foundations, Linux networking, concurrency, performance, and dependable backend engineering.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Apple Platforms</h3>
+      <p>Native Swift experiences designed for iOS and macOS, with equal care for polish and behavior.</p>
+    </td>
+  </tr>
+</table>
 
+## 02 / TOOLKIT
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=floki-u&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,swift,ts,react,nextjs,nodejs,python,pytorch,docker,linux,git,postgres&perline=12&theme=light" alt="C++, Swift, TypeScript, React, Next.js, Node.js, Python, PyTorch, Docker, Linux, Git, and PostgreSQL" />
+</div>
 
+<br />
+
+## 03 / SELECTED WORK
+
+| Project | Field note |
+| :--- | :--- |
+| **[DevTriage](https://github.com/floki-u/DevTriage)** | Developer workflow tooling. |
+| **[PicSwipe](https://github.com/floki-u/PicSwipe)** | A native Swift application for Apple platforms. |
+| **[LdSpark](https://github.com/floki-u/LdSpark)** | Server stress-testing software built in C++. |
+| **[Xw-Shark](https://github.com/floki-u/Xw-Shark)** | A C++ packet-capture tool inspired by Wireshark. |
+
+## 04 / FIELD METRICS
+
+<div align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=floki-u&show_icons=true&theme=transparent&title_color=397b99&text_color=153443&icon_color=397b99&border_color=dcecf1" height="165" alt="Floki-U's GitHub stats" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floki-u&layout=compact&title_color=397b99&text_color=153443&bg_color=f7fbfc&border_color=dcecf1" height="165" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=floki-u&background=f7fbfc&border=dcecf1&stroke=397b99&ring=397b99&fire=28627d&currStreakNum=153443&sideNums=153443&currStreakLabel=397b99&sideLabels=397b99&dates=607d87" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=floki-u&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=floki-u&bg_color=f7fbfc&color=397b99&line=397b99&point=153443&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+</div>
+
+---
+
+<div align="center">
+  <sub>❄ Precision in the foundation. Character in the experience. ❄</sub>
+</div>
