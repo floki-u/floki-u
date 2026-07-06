@@ -1,0 +1,29 @@
+docs/superpowers/plans/2026-07-06-github-profile-readme.md
+  68b59232561441ca 1-149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.9",
+  "base_commit_sha": "5ac0ae59a329748814831014a0b5811c3136fcc6",
+  "prompts": {
+    "68b59232561441ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3646-68e1-7382-8de4-7107887efd84",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wangchao",
+      "messages": [],
+      "total_additions": 149,
+      "total_deletions": 0,
+      "accepted_lines": 149,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "docs/superpowers/plans/2026-07-06-github-profile-readme.md": {
+          "additions": 149,
+          "accepted_lines": 149
+        }
+      }
+    }
+  }
+}
