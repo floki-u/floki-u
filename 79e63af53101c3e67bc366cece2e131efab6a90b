@@ -1,0 +1,33 @@
+README.md
+  68b59232561441ca 57-60,66-70,75-79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.9",
+  "base_commit_sha": "79e63af53101c3e67bc366cece2e131efab6a90b",
+  "prompts": {
+    "68b59232561441ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3646-68e1-7382-8de4-7107887efd84",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wangchao",
+      "messages": [],
+      "total_additions": 30,
+      "total_deletions": 15,
+      "accepted_lines": 14,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        ".pr-body.md": {
+          "additions": 16
+        },
+        "README.md": {
+          "additions": 14,
+          "deletions": 15,
+          "accepted_lines": 14
+        }
+      }
+    }
+  }
+}
