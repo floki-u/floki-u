@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/username=floki-u&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/floki-u&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
