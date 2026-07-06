@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=floki-u)](https://github.com/stats-organization/github-stats-extended)
 
 
-[![trophy]([https://github-profile-trophy.vercel.app/?username=floki-u)](https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=floki-u&theme=dracula))
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=floki-u&theme=dracula)
+[![trophy](https://github-profile-trophy.vercel.app/?username=floki-u&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
