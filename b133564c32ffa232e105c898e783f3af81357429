@@ -4,7 +4,7 @@ docs/superpowers/plans/2026-07-06-github-profile-readme.md
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.2.8-ntes.9",
-  "base_commit_sha": "5ac0ae59a329748814831014a0b5811c3136fcc6",
+  "base_commit_sha": "b133564c32ffa232e105c898e783f3af81357429",
   "prompts": {
     "68b59232561441ca": {
       "agent_id": {
@@ -14,14 +14,15 @@ docs/superpowers/plans/2026-07-06-github-profile-readme.md
       },
       "human_author": "wangchao",
       "messages": [],
-      "total_additions": 149,
-      "total_deletions": 0,
+      "total_additions": 150,
+      "total_deletions": 1,
       "accepted_lines": 149,
       "overriden_lines": 0,
       "per_file_stats": {
         "docs/superpowers/plans/2026-07-06-github-profile-readme.md": {
-          "additions": 149,
-          "accepted_lines": 149
+          "additions": 150,
+          "deletions": 1,
+          "accepted_lines": 150
         }
       }
     }
