@@ -1,0 +1,29 @@
+.github/workflows/snake.yml
+  68b59232561441ca 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.9",
+  "base_commit_sha": "8de1839ac9e2085854b0113872a73105e7ab923d",
+  "prompts": {
+    "68b59232561441ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3646-68e1-7382-8de4-7107887efd84",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wangchao",
+      "messages": [],
+      "total_additions": 30,
+      "total_deletions": 0,
+      "accepted_lines": 30,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        ".github/workflows/snake.yml": {
+          "additions": 30,
+          "accepted_lines": 30
+        }
+      }
+    }
+  }
+}
