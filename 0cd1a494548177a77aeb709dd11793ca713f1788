@@ -1,0 +1,29 @@
+README.md
+  68b59232561441ca 1-2,4-10,12-16,18,20,22-43,45,47-49,51-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.9",
+  "base_commit_sha": "0cd1a494548177a77aeb709dd11793ca713f1788",
+  "prompts": {
+    "68b59232561441ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3646-68e1-7382-8de4-7107887efd84",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wangchao",
+      "messages": [],
+      "total_additions": 30,
+      "total_deletions": 0,
+      "accepted_lines": 86,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        ".github/workflows/snake.yml": {
+          "additions": 30,
+          "accepted_lines": 30
+        }
+      }
+    }
+  }
+}
