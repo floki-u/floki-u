@@ -54,10 +54,10 @@
 
 | Project | Field note |
 | :--- | :--- |
-| **[DevTriage](https://github.com/floki-u/DevTriage)** | Developer workflow tooling. <br /> ![DevTriage stars](https://img.shields.io/github/stars/floki-u/DevTriage?style=flat-square&color=397b99&labelColor=eaf4f7) |
-| **[PicSwipe](https://github.com/floki-u/PicSwipe)** | A native Swift application for Apple platforms. <br /> ![PicSwipe stars](https://img.shields.io/github/stars/floki-u/PicSwipe?style=flat-square&color=397b99&labelColor=eaf4f7) |
-| **[LdSpark](https://github.com/floki-u/LdSpark)** | Server stress-testing software built in C++. <br /> ![LdSpark stars](https://img.shields.io/github/stars/floki-u/LdSpark?style=flat-square&color=397b99&labelColor=eaf4f7) |
-| **[Xw-Shark](https://github.com/floki-u/Xw-Shark)** | A C++ packet-capture tool inspired by Wireshark. <br /> ![Xw-Shark stars](https://img.shields.io/github/stars/floki-u/Xw-Shark?style=flat-square&color=397b99&labelColor=eaf4f7) |
+| **[DevTriage](https://github.com/floki-u/DevTriage)** | Developer workflow tooling. <br /> ![DevTriage stars](https://img.shields.io/github/stars/floki-u/DevTriage?style=flat-square&color=397b99&labelColor=eaf4f7&v=3) |
+| **[PicSwipe](https://github.com/floki-u/PicSwipe)** | A native Swift application for Apple platforms. <br /> ![PicSwipe stars](https://img.shields.io/github/stars/floki-u/PicSwipe?style=flat-square&color=397b99&labelColor=eaf4f7&v=3) |
+| **[LdSpark](https://github.com/floki-u/LdSpark)** | Server stress-testing software built in C++. <br /> ![LdSpark stars](https://img.shields.io/github/stars/floki-u/LdSpark?style=flat-square&color=397b99&labelColor=eaf4f7&v=3) |
+| **[Xw-Shark](https://github.com/floki-u/Xw-Shark)** | A C++ packet-capture tool inspired by Wireshark. <br /> ![Xw-Shark stars](https://img.shields.io/github/stars/floki-u/Xw-Shark?style=flat-square&color=397b99&labelColor=eaf4f7&v=3) |
 
 ## 04 / FIELD METRICS
 
