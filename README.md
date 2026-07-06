@@ -54,30 +54,29 @@
 
 | Project | Field note |
 | :--- | :--- |
-| **[DevTriage](https://github.com/floki-u/DevTriage)** | Developer workflow tooling. |
-| **[PicSwipe](https://github.com/floki-u/PicSwipe)** | A native Swift application for Apple platforms. |
-| **[LdSpark](https://github.com/floki-u/LdSpark)** | Server stress-testing software built in C++. |
-| **[Xw-Shark](https://github.com/floki-u/Xw-Shark)** | A C++ packet-capture tool inspired by Wireshark. |
+| **[DevTriage](https://github.com/floki-u/DevTriage)** | Developer workflow tooling. <br /> ![DevTriage stars](https://img.shields.io/github/stars/floki-u/DevTriage?style=flat-square&color=397b99&labelColor=eaf4f7) |
+| **[PicSwipe](https://github.com/floki-u/PicSwipe)** | A native Swift application for Apple platforms. <br /> ![PicSwipe stars](https://img.shields.io/github/stars/floki-u/PicSwipe?style=flat-square&color=397b99&labelColor=eaf4f7) |
+| **[LdSpark](https://github.com/floki-u/LdSpark)** | Server stress-testing software built in C++. <br /> ![LdSpark stars](https://img.shields.io/github/stars/floki-u/LdSpark?style=flat-square&color=397b99&labelColor=eaf4f7) |
+| **[Xw-Shark](https://github.com/floki-u/Xw-Shark)** | A C++ packet-capture tool inspired by Wireshark. <br /> ![Xw-Shark stars](https://img.shields.io/github/stars/floki-u/Xw-Shark?style=flat-square&color=397b99&labelColor=eaf4f7) |
 
 ## 04 / FIELD METRICS
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=floki-u&show_icons=true&theme=transparent&title_color=397b99&text_color=153443&icon_color=397b99&border_color=dcecf1" height="165" alt="Floki-U's GitHub stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=floki-u&show_icons=true&theme=github_dark&border_color=30363d&v=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=floki-u&show_icons=true&title_color=397b99&text_color=153443&icon_color=397b99&border_color=dcecf1&v=2" />
+      <img src="https://github-stats-extended.vercel.app/api?username=floki-u&show_icons=true&title_color=397b99&text_color=153443&icon_color=397b99&border_color=dcecf1&v=2" alt="Floki-U's GitHub stats" />
+    </picture>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floki-u&layout=compact&title_color=397b99&text_color=153443&bg_color=f7fbfc&border_color=dcecf1" height="165" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=floki-u&background=f7fbfc&border=dcecf1&stroke=397b99&ring=397b99&fire=28627d&currStreakNum=153443&sideNums=153443&currStreakLabel=397b99&sideLabels=397b99&dates=607d87" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=floki-u&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=floki-u&bg_color=f7fbfc&color=397b99&line=397b99&point=153443&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=floki-u&bg_color=0d1117&color=8ecae6&line=4f9dbd&point=e6f6fb&area=true&hide_border=true&v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=floki-u&bg_color=f7fbfc&color=397b99&line=397b99&point=153443&area=true&hide_border=true&v=2" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=floki-u&bg_color=f7fbfc&color=397b99&line=397b99&point=153443&area=true&hide_border=true&v=2" width="100%" alt="GitHub activity graph" />
+  </picture>
 </div>
 
 ---
