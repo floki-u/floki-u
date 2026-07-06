@@ -2,7 +2,7 @@
   <img src="./assets/floki-esdeath-hero.png" width="100%" alt="Floki-U — AI and full-stack engineer" />
 
   <br />
-  <h1>FLOKI—U</h1>
+  <h1>FLOKI</h1>
   <p><strong>AI × FULL-STACK ENGINEER</strong></p>
   <p>
     Building intelligent products with systems-level foundations<br />
