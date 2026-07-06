@@ -1,0 +1,32 @@
+docs/superpowers/specs/2026-07-06-profile-widgets-design.md
+  68b59232561441ca 1-64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.9",
+  "base_commit_sha": "4e287751ad813fbf0e4cacd4fb2a45e78171889a",
+  "prompts": {
+    "68b59232561441ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3646-68e1-7382-8de4-7107887efd84",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wangchao",
+      "messages": [],
+      "total_additions": 80,
+      "total_deletions": 0,
+      "accepted_lines": 64,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        ".fix-pr-body.md": {
+          "additions": 16
+        },
+        "docs/superpowers/specs/2026-07-06-profile-widgets-design.md": {
+          "additions": 64,
+          "accepted_lines": 64
+        }
+      }
+    }
+  }
+}
