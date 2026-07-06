@@ -1,10 +1,10 @@
 docs/superpowers/plans/2026-07-06-profile-widgets.md
-  68b59232561441ca 1-186
+  68b59232561441ca 1-190
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.2.8-ntes.9",
-  "base_commit_sha": "2f5ab5688d0e9ab8063fed0eeb469260b60d8921",
+  "base_commit_sha": "c500e140d4e9557d0afbf80d795b1d6d94b72afc",
   "prompts": {
     "68b59232561441ca": {
       "agent_id": {
@@ -14,14 +14,15 @@ docs/superpowers/plans/2026-07-06-profile-widgets.md
       },
       "human_author": "wangchao",
       "messages": [],
-      "total_additions": 186,
-      "total_deletions": 0,
-      "accepted_lines": 186,
+      "total_additions": 195,
+      "total_deletions": 5,
+      "accepted_lines": 190,
       "overriden_lines": 0,
       "per_file_stats": {
         "docs/superpowers/plans/2026-07-06-profile-widgets.md": {
-          "additions": 186,
-          "accepted_lines": 186
+          "additions": 195,
+          "deletions": 5,
+          "accepted_lines": 195
         }
       }
     }
